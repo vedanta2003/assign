@@ -38,9 +38,6 @@ We analyzed performance by grouping data by topics to calculate:
 - Maximum Score
 - Average Accuracy
 
-#### Visualization: Average Scores by Topic
-![Average Scores by Topic](avg_score_by_topic.png)
-
 From the analysis:
 - **Body Fluids and Circulation** has the highest average score (86.67).
 - Topics like **Respiration and Gas Exchange** show relatively lower performance (24.0 average score).
